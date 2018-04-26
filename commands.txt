@@ -1,0 +1,2 @@
+"C:\Program Files\GIMP 2\bin\gimp-2.8.exe" -i -b "(file-picture-crop-to-size \"source.jpg\" \"result.jpg\")" -b "(gimp-quit 0)"
+"C:\Program Files\GIMP 2\bin\gimp-2.8.exe" -i -b "(file-picture-make-size \"*.jpg\")" -b "(gimp-quit 0)"
